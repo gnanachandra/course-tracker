@@ -1,0 +1,5 @@
+client/Admin/node_modules
+client/Student/node_modules
+server/node_modules
+server/.env
+server/keyfile.json
